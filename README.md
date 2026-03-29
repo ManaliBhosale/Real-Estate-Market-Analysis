@@ -3,10 +3,6 @@
 ## 📌 Overview
 This project contains a Power BI report designed to analyze and visualize data for actionable insights. The dashboard provides interactive visuals, key metrics, and trends to support data-driven decision-making.
 
-## 🧾 File Information
-- **File Name:** <your_file_name>.pbix
-- **Tool Used:** Microsoft Power BI Desktop
-- **Data Source(s):** <e.g., Excel, SQL Server, API, etc.>
 
 ## 🎯 Objectives
 - Analyze key performance indicators (KPIs)
